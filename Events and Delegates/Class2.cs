@@ -9,6 +9,7 @@ namespace Events_and_Delegates
     public class Class2
     {
 // test comment
+//gopesh comment
         private delegate string MyDelegate(int n);
          MyDelegate CallMe;
 
